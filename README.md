@@ -16,6 +16,7 @@
 
 ## Detalizēts apraksts par projektu.
 &nbsp;&nbsp;&nbsp;&nbsp; Analizējot ikdienas dzīves laikietilpīgus procesus, esmu pamanījusi, ka vairākas reizes dienā ir nepieciešams ieiet Ortus sistēmā un pārbaudīt infopaneli, kur tiek attēlots kādi uzdevumi uzdoti un kad to ir jānodot, kā arī tur attēlojas eksāmeni izpildes lapas, gadijumā ja eksāmenu raksta caur Ortus sistēmu.
+
 &nbsp;&nbsp;&nbsp;&nbsp; Lai automatizētu šo laikietilpīgu procesu tika pieņemts lēmums iztrādāt programmu, kas izvadīs datus no Ortus sistēmas un nosūtīs to E-pastā, lai ērtāk būtu analizēt dienas uzdevumus un plānot ikdienu. E-pasta tiks atsutīts kad, cikos un kurā priekšmetā jāizpilda darbu. Man paliks ātri apskatīt E-pastu un izplānot rītdienu.
 
 &nbsp;_Projekta izstrādes laikā izmantotās bibliotēkas :_ 
@@ -51,5 +52,7 @@ _*Pārnesot failu no Visual Studio Code radās problēmas ka tas never vaļā ch
 
 ###
 _*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmaiņas daļēji tika uzglabātas GitHub krātuvē, kas ļautu izsekot projekta izstrādes gaitu, jo sākumā projekts tika izstrādāts Visual Studio Code un tad ar nelielām izmaiņām tika pievienots GitHub krātuvē*_
+
 _*Gmail konts tika izveidots mācibu projektam, tāpēc parole un pats gmail konts tika atstāts projektā*_
+
 _*Parole no Ortus sistēmas netiek uzglabāta šajā projekta, jo tā ir sensitīvie dati*_

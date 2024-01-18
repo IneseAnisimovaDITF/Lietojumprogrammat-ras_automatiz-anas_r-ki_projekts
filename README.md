@@ -15,7 +15,7 @@
 1. ierakstīt video, kurā tiks attēlots programmatūras darbība un rezultāts.
 
 ## Detalizēts apraksts par projektu.
-&nbsp;&nbsp;&nbsp;&nbsp; Analizējot ikdienas dzīves laikietilpīgus procesus, esmu pamanījusi, ka vairākas reizes dienā ir nepieciešams ieiet Ortus sistēmā un pārbaudīt infopaneli, kur tiek attēlots kādi uzdevumi uzdoti un kad to ir jānodot, kā arī tur attēlojas eksāmeni izpildes lapas, gadijumā ja eksāmenu raksta caur Ortus sistēmu.
+<div class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp; Analizējot ikdienas dzīves laikietilpīgus procesus, esmu pamanījusi, ka vairākas reizes dienā ir nepieciešams ieiet Ortus sistēmā un pārbaudīt infopaneli, kur tiek attēlots kādi uzdevumi uzdoti un kad to ir jānodot, kā arī tur attēlojas eksāmeni izpildes lapas, gadijumā ja eksāmenu raksta caur Ortus sistēmu.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Lai automatizētu šo laikietilpīgu procesu tika pieņemts lēmums iztrādāt programmu, kas izvadīs datus no Ortus sistēmas un nosūtīs to E-pastā, lai ērtāk būtu analizēt dienas uzdevumus un plānot ikdienu. E-pasta tiks atsutīts kad, cikos un kurā priekšmetā jāizpilda darbu. Man paliks ātri apskatīt E-pastu un izplānot rītdienu.
 
@@ -35,7 +35,7 @@
 2. Tika izveidots rindu skaitītājs ar kura palīdzību programma izvada tikai nepieciešamo informāciju;
 2. Formatējam E-pastu un nosūtam to;
 2. Aizstaisam ciet E-pastu;
-2. Programma pabeidz savu darbību.
+2. Programma pabeidz savu darbību.</div>
 ## 
 Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!
 

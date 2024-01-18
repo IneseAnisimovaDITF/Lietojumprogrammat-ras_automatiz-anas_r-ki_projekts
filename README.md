@@ -23,7 +23,7 @@
 
 * Selenium - ir atvērta pirmskoda rīku komplekts, kas ļauj automatomatizēt jebkuras tīmekļa pārlūkprogrammas darbību savā projektā. Izstrādātā projektā tika pieslēgta Selenium bibliotēka, lai strādātu ar chrome pārlūkprogrammu
 * Time - Tā ir iebuvēta jeb standarta Python bibliotēka, kas tiek izmantota, nodrošinot automatizāciju, jo ir nepieciešams iepauzēt programmas izpildi, lai programma nenolasa saturu no neielādētās mājaslapas, tāpēc ka griežoties pie mājaslapām saturs netiek uzreiz ielādēts un ir nepieciešams laiks, lai mājaslapa ielādētu savu saturu.Noslēguma projektā tā tika izmantota, lai ievietotu pauzes time.sleep() (iekavās var ievietot skaitli piemēram 3, kas paradīs uz cik sekundēm programma iepauzēs)
-* Smtplib - 
+* Smtplib - Tā ir bibliotēka, kas nodrošina E-pasta nosūtīšanu Python programmas, kā arī nodrošina ka katrs kurš izpēta smptlib bibliotēkas dokumentāciju var pievienot Python programmā savu E-pastu ar kura palīdzību var to pārvaldīt. Projektā smptlib tiek izmantots E-pasta pārvaldīšanai, bet ja precizējot to pievienojot, sastādot vēstuli, nosūtot to un aizverot E-pastu.
 
 &nbsp;_Darbības process :_ 
 2. No sākuma tika importētas nepieciešamās bibliotēkas;
@@ -37,7 +37,7 @@
 2. Aizstaisam ciet E-pastu;
 2. Programma pabeidz savu darbību.
 ## 
-Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!
+Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca! [https://drive.google.com/file/d/1sSMicqQ_pufYEKn9zmBdo7w-lv4LO_2G/view?usp=sharing]
 
 _*Pārnesot failu no Visual Studio Code radās problēmas ka tas never vaļā chrome tīmekļa vietni, tāpec video tiek parādits, kā darbojas programma no Visual Studio Code*_
 
@@ -51,9 +51,9 @@ _*Pārnesot failu no Visual Studio Code radās problēmas ka tas never vaļā ch
 
 * Time bibliotēkas aprakstam tika izmantota tīmekļa vietne : [https://docs.python.org/3/library/time.html].
 
-* Smptlib bibliotēkas aprakstam tika izmantota tīmekļa vietne : [].
+* Smptlib bibliotēkas aprakstam tika izmantota tīmekļa vietne : [https://docs.python.org/3/library/smtplib.html].
 
-* Markdown sintakses pielitošanai tika izmantotas timekļa vietne : [https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls][https://www.markdownguide.org/hacks/#indent-tab].
+* Markdown sintakses pielitošanai tika izmantotas timekļa vietne : [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax][https://www.markdownguide.org/hacks/#indent-tab].
 
 * E-pasta sagatavošanai, lai izmantotu Python programmas izstrāde, tika izmantota tīmekļa vietne : [https://www.sitepoint.com/quick-tip-sending-email-via-gmail-with-python/].
 
@@ -67,3 +67,13 @@ _*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmaiņ
 _*Gmail konts tika izveidots mācibu projektam, tāpēc parole un pats gmail konts tika atstāts projektā*_
 
 _*Parole no Ortus sistēmas netiek uzglabāta šajā projekta, jo tā ir sensitīvie dati*_
+
+###
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)

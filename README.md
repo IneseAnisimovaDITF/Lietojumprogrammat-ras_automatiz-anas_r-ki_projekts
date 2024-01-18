@@ -21,10 +21,21 @@
 
 &nbsp;_Projekta izstrādes laikā izmantotās bibliotēkas :_ 
 
-* Selenium - 
+* Selenium - ir atvērta pirmskoda rīku komplekts, kas ļauj automatomatizēt jebkuras tīmekļa pārlūkprogrammas darbību savā projektā. Izstrādātā projektā tika pieslēgta Selenium bibliotēka, lai strādātu ar chrome pārlūkprogrammu
 * Time -
 * Smtplib - 
 
+&nbsp;_Darbības process :_ 
+2. No sākuma tika importētas nepieciešamās bibliotēkas;
+2. Izveidojam webdriver Chrome objektu izmantojot Selenium bibliotēku;
+2. Atveram tīmekļa vietni un ar funkciju time.sleep(2) uzgaidam divas sekundes kamēr ielādēsies mājaslapa;
+2. Vēlāk mēs mājaslapas kodā meklējam nepieciešamo kodu CLASS,CLASS_NAME,NAME,ID un ja neatrodam klases, vārdus un id tad izmantojam XPATH metodi. Tādā veidā mēs nospiežam mums nepieciešamos objektus, ievadam paroli, lietotājvārdu un izvadam nepieciešamo informāciju no mājaslapas;
+2. Kad nepiecišamā informācija tika atrasta, informāciju izvadam un pierakstam izveidota teksta datne, no kuras vēlāk tiks nosūtīts E-pasts.
+2. E-pasta parametru rakstīšana, kur mēs ievadam paroli, E-pastu, serveri, portu kuru izmantojam, ielogojamies E-pastā;
+2. Tika izveidots rindu skaitītājs ar kura palīdzību programma izvada tikai nepieciešamo informāciju;
+2. Formatējam E-pastu un nosūtam to;
+2. Aizstaisam ciet E-pastu;
+2. Programma pabeidz savu darbību.
 ## 
 Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!
 

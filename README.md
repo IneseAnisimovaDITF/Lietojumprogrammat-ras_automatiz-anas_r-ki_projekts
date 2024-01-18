@@ -27,6 +27,9 @@
 ## 
 Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!
 
+_*Pārnesot failu no Visual Studio Code radās problēmas ka tas never vaļā chrome tīmekļa vietni, tāpec video tiek parādits, kā darbojas programma no Visual Studio Code*_
+
+## 
 &nbsp;_Projekta izstrādes laikā izmantotie resursi :_ 
 * YouTube, The Digital Skill Hub, 5 lekcijas ieraksts. Selenium izmantošana pārlūkprogrammas vadībai Python valodā [https://www.youtube.com/watch?v=t0PBBPuPgaw].
 
@@ -47,4 +50,6 @@ Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!
 * Izmantojot Utf-8, lai iedarbinātu projektu (,jo bez Utf-8, programma nedarbojās), tika izmantota tīmekļa vietne [https://blog.hubspot.com/website/what-is-utf-8].
 
 ###
-_*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmaiņas netiek uzglabātas GitHub krātuvē, kas ļautu izsekot projekta izstrādes gaitu, jo sākumā projekts tika izstrādāts Visual Studio Code un tad ar nelielām izmaiņām tika pievienots GitHub krātuvē*_
+_*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmaiņas daļēji tika uzglabātas GitHub krātuvē, kas ļautu izsekot projekta izstrādes gaitu, jo sākumā projekts tika izstrādāts Visual Studio Code un tad ar nelielām izmaiņām tika pievienots GitHub krātuvē*_
+_*Gmail konts tika izveidots mācibu projektam, tāpēc parole un pats gmail konts tika atstāts projektā*_
+_*Parole no Ortus sistēmas netiek uzglabāta šajā projekta, jo tā ir sensitīvie dati*_

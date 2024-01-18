@@ -15,14 +15,14 @@
 1. ierakstīt video, kurā tiks attēlots programmatūras darbība un rezultāts.
 
 ## Detalizēts apraksts par projektu.
-<div class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp; Analizējot ikdienas dzīves laikietilpīgus procesus, esmu pamanījusi, ka vairākas reizes dienā ir nepieciešams ieiet Ortus sistēmā un pārbaudīt infopaneli, kur tiek attēlots kādi uzdevumi uzdoti un kad to ir jānodot, kā arī tur attēlojas eksāmeni izpildes lapas, gadijumā ja eksāmenu raksta caur Ortus sistēmu.
+&nbsp;&nbsp;&nbsp;&nbsp; Analizējot ikdienas dzīves laikietilpīgus procesus, esmu pamanījusi, ka vairākas reizes dienā ir nepieciešams ieiet Ortus sistēmā un pārbaudīt infopaneli, kur tiek attēlots kādi uzdevumi uzdoti un kad to ir jānodot, kā arī tur attēlojas eksāmeni izpildes lapas, gadijumā ja eksāmenu raksta caur Ortus sistēmu.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Lai automatizētu šo laikietilpīgu procesu tika pieņemts lēmums iztrādāt programmu, kas izvadīs datus no Ortus sistēmas un nosūtīs to E-pastā, lai ērtāk būtu analizēt dienas uzdevumus un plānot ikdienu. E-pasta tiks atsutīts kad, cikos un kurā priekšmetā jāizpilda darbu. Man paliks ātri apskatīt E-pastu un izplānot rītdienu.</div>
+&nbsp;&nbsp;&nbsp;&nbsp; Lai automatizētu šo laikietilpīgu procesu tika pieņemts lēmums iztrādāt programmu, kas izvadīs datus no Ortus sistēmas un nosūtīs to E-pastā, lai ērtāk būtu analizēt dienas uzdevumus un plānot ikdienu. E-pasta tiks atsutīts kad, cikos un kurā priekšmetā jāizpilda darbu. Man paliks ātri apskatīt E-pastu un izplānot rītdienu.
 
 &nbsp;_Projekta izstrādes laikā izmantotās bibliotēkas :_ 
 
 * Selenium - ir atvērta pirmskoda rīku komplekts, kas ļauj automatomatizēt jebkuras tīmekļa pārlūkprogrammas darbību savā projektā. Izstrādātā projektā tika pieslēgta Selenium bibliotēka, lai strādātu ar chrome pārlūkprogrammu
-* Time -
+* Time - Tā ir iebuvēta jeb standarta Python bibliotēka, kas tiek izmantota, nodrošinot automatizāciju, jo ir nepieciešams iepauzēt programmas izpildi, lai programma nenolasa saturu no neielādētās mājaslapas, tāpēc ka griežoties pie mājaslapām saturs netiek uzreiz ielādēts un ir nepieciešams laiks, lai mājaslapa ielādētu savu saturu.Noslēguma projektā tā tika izmantota, lai ievietotu pauzes time.sleep() (iekavās var ievietot skaitli piemēram 3, kas paradīs uz cik sekundēm programma iepauzēs)
 * Smtplib - 
 
 &nbsp;_Darbības process :_ 

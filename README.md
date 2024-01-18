@@ -1,13 +1,13 @@
 # Noslēguma projekts - jauniegūtās prasmju pielietojums ikdienas uzdevumu veikšanā.
-&nbsp;_Darba tēma :_ Noslēguma projekts - jauniegūtās prasmju pielietojums ikdienas uzdevumu veikšanā.
+&nbsp;__Darba tēma :__ Noslēguma projekts - jauniegūtās prasmju pielietojums ikdienas uzdevumu veikšanā.
 
-&nbsp;_Priekšmetā :_ Lietojumprogrammatūras automatizēšanas rīki.
+&nbsp;__Priekšmetā :__ Lietojumprogrammatūras automatizēšanas rīki.
 
-&nbsp;_Darba autors :_ Inese Aņisimova. 231RDB004. Grupa  Nr. 11.
+&nbsp;__Darba autors :__ Inese Aņisimova. 231RDB004. Grupa  Nr. 11.
 
-&nbsp;_Darba mērķis :_ Pielietot jauniegūtās prasmes un izstrādāt programmu, kas atvieglo ikdienas uzdevumus.
+&nbsp;__Darba mērķis :__ Pielietot jauniegūtās prasmes un izstrādāt programmu, kas atvieglo ikdienas uzdevumus.
 
-&nbsp;_Darba uzdevumi :_ 
+&nbsp;__Darba uzdevumi :__ 
 1. analizēt ikdienas dzīves laikietilpīgus procesus, kurus var automatizēt ar Python valodu un jauniegūtajām prasmēm;
 1. izstrādāt README.md datni kurā detalizēti jāapraksta projektu;
 1. analizēt Python bibliotēkas, kuras tiks izmantotas projekta izstrādes laikā, aprakstīt tās;
@@ -19,13 +19,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Lai automatizētu šo laikietilpīgu procesu tika pieņemts lēmums iztrādāt programmu, kas izvadīs datus no Ortus sistēmas un nosūtīs to E-pastā, lai ērtāk būtu analizēt dienas uzdevumus un plānot ikdienu. E-pasta tiks atsutīts kad, cikos un kurā priekšmetā jāizpilda darbu. Man paliks ātri apskatīt E-pastu un izplānot rītdienu.
 
-&nbsp;_Projekta izstrādes laikā izmantotās bibliotēkas :_ 
+&nbsp;__Projekta izstrādes laikā izmantotās bibliotēkas :__ 
 
 * Selenium - ir atvērta pirmskoda rīku komplekts, kas ļauj automatomatizēt jebkuras tīmekļa pārlūkprogrammas darbību savā projektā. Izstrādātā projektā tika pieslēgta Selenium bibliotēka, lai strādātu ar chrome pārlūkprogrammu
 * Time - Tā ir iebuvēta jeb standarta Python bibliotēka, kas tiek izmantota, nodrošinot automatizāciju, jo ir nepieciešams iepauzēt programmas izpildi, lai programma nenolasa saturu no neielādētās mājaslapas, tāpēc ka griežoties pie mājaslapām saturs netiek uzreiz ielādēts un ir nepieciešams laiks, lai mājaslapa ielādētu savu saturu.Noslēguma projektā tā tika izmantota, lai ievietotu pauzes time.sleep() (iekavās var ievietot skaitli piemēram 3, kas paradīs uz cik sekundēm programma iepauzēs)
 * Smtplib - Tā ir bibliotēka, kas nodrošina E-pasta nosūtīšanu Python programmas, kā arī nodrošina ka katrs kurš izpēta smptlib bibliotēkas dokumentāciju var pievienot Python programmā savu E-pastu ar kura palīdzību var to pārvaldīt. Projektā smptlib tiek izmantots E-pasta pārvaldīšanai, bet ja precizējot to pievienojot, sastādot vēstuli, nosūtot to un aizverot E-pastu.
 
-&nbsp;_Darbības process :_ 
+&nbsp;__Darbības process :__ 
 1. No sākuma tika importētas nepieciešamās bibliotēkas;
 1. Izveidojam webdriver Chrome objektu izmantojot Selenium bibliotēku;
 1. Atveram tīmekļa vietni un ar funkciju time.sleep(2) uzgaidam divas sekundes kamēr ielādēsies mājaslapa;
@@ -37,12 +37,12 @@
 1. Aizstaisam ciet E-pastu;
 1. Programma pabeidz savu darbību.
 ## 
-Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca! [https://drive.google.com/file/d/1sSMicqQ_pufYEKn9zmBdo7w-lv4LO_2G/view?usp=sharing]
+__Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!__ [https://drive.google.com/file/d/1sSMicqQ_pufYEKn9zmBdo7w-lv4LO_2G/view?usp=sharing]
 
-_*Pārnesot failu no Visual Studio Code radās problēmas ka tas never vaļā chrome tīmekļa vietni, tāpec video tiek parādits, kā darbojas programma no Visual Studio Code*_
+__*Pārnesot failu no Visual Studio Code radās problēmas ka tas never vaļā chrome tīmekļa vietni, tāpec video tiek parādits, kā darbojas programma no Visual Studio Code*__
 
 ## 
-&nbsp;_Projekta izstrādes laikā izmantotie resursi :_ 
+&nbsp;__Projekta izstrādes laikā izmantotie resursi :__ 
 * YouTube, The Digital Skill Hub, 5 lekcijas ieraksts. Selenium izmantošana pārlūkprogrammas vadībai Python valodā [https://www.youtube.com/watch?v=t0PBBPuPgaw].
 
 * Pieraksti, kas tika veidoti 7. lekcijas laikā - E-pasta apstrāde izmantojot Python.
@@ -62,11 +62,11 @@ _*Pārnesot failu no Visual Studio Code radās problēmas ka tas never vaļā ch
 * Izmantojot Utf-8, lai iedarbinātu projektu (,jo bez Utf-8, programma nedarbojās), tika izmantota tīmekļa vietne [https://blog.hubspot.com/website/what-is-utf-8].
 
 ###
-_*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmaiņas daļēji tika uzglabātas GitHub krātuvē, kas ļautu izsekot projekta izstrādes gaitu, jo sākumā projekts tika izstrādāts Visual Studio Code un tad ar nelielām izmaiņām tika pievienots GitHub krātuvē*_
+__*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmaiņas daļēji tika uzglabātas GitHub krātuvē, kas ļautu izsekot projekta izstrādes gaitu, jo sākumā projekts tika izstrādāts Visual Studio Code un tad ar nelielām izmaiņām tika pievienots GitHub krātuvē*__
 
-_*Gmail konts tika izveidots mācibu projektam, tāpēc parole un pats gmail konts tika atstāts projektā*_
+__*Gmail konts tika izveidots mācibu projektam, tāpēc parole un pats gmail konts tika atstāts projektā*__
 
-_*Parole no Ortus sistēmas netiek uzglabāta šajā projekta, jo tā ir sensitīvie dati*_
+__*Parole no Ortus sistēmas netiek uzglabāta šajā projekta, jo tā ir sensitīvie dati*__
 
 ###
 

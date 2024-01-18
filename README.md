@@ -15,5 +15,5 @@
 1. ierakstīt video, kurā tiks attēlots programmatūras darbība un rezultāts.</div>
 
 ## Detalizēts apraksts par projektu.
-&nbsp;&nbsp;&nbsp;&nbsp; Analizējot ikdienas dzīves laikietilpīgus procesus, esmu pamanījusi, ka vairākas reizes dienā ir nepieciešams ieiet Ortus sistēmā un pārbaudīt infopaneli, kur tiek attēlots kādi uzdevumi uzdoti un kad to ir jānodot, kā arī tur attēlojas eksāmeni izpildes lapas, gadijumā ja eksāmenu raksta caur Ortus sistēmu.
-Lai
+<div class="text-justify">&nbsp;&nbsp;&nbsp;&nbsp; Analizējot ikdienas dzīves laikietilpīgus procesus, esmu pamanījusi, ka vairākas reizes dienā ir nepieciešams ieiet Ortus sistēmā un pārbaudīt infopaneli, kur tiek attēlots kādi uzdevumi uzdoti un kad to ir jānodot, kā arī tur attēlojas eksāmeni izpildes lapas, gadijumā ja eksāmenu raksta caur Ortus sistēmu.
+Lai</div>

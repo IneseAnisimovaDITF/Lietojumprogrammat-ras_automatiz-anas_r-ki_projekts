@@ -1,9 +1,9 @@
 # Noslēguma projekts - jauniegūtās prasmju pielietojums ikdienas uzdevumu veikšanā.
-\_Darba tēma :_ Noslēguma projekts - jauniegūtās prasmju pielietojums ikdienas uzdevumu veikšanā.
-\_Priekšmetā :_ Lietojumprogrammatūras automatizēšanas rīki.
-\_Darba autors :_ Inese Aņisimova. 231RDB004. Grupa  Nr. 11.
-\_Darba mērķis :_
-\_Darba uzdevumi :_ 
+&nbsp;_Darba tēma :_ Noslēguma projekts - jauniegūtās prasmju pielietojums ikdienas uzdevumu veikšanā.
+&nbsp;_Priekšmetā :_ Lietojumprogrammatūras automatizēšanas rīki.
+&nbsp;_Darba autors :_ Inese Aņisimova. 231RDB004. Grupa  Nr. 11.
+&nbsp;_Darba mērķis :_
+&nbsp;_Darba uzdevumi :_ 
 1. analizēt ikdienas dzīves laikietilpīgus procesus, kurus var automatizēt ar Python valodu un jauniegūtajām prasmēm;
 1. izstrādāt README.md datni kurā detalizēti jāapraksta projektu;
 1. analizēt Python bibliotēkas, kuras tiks izmantotas projekta izstrādes laikā, aprakstīt tās;

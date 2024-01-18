@@ -42,5 +42,9 @@ Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!
 
 * E-pasta sagatavošanai, lai izmantotu Python programmas izstrāde, tika izmantota tīmekļa vietne : [https://www.sitepoint.com/quick-tip-sending-email-via-gmail-with-python/].
 
+* Izmantojot XPATH, lai izprastu kā to lietot, tika izmantota tīmekļa vietne [https://habr.com/ru/articles/250975/].
+
+* Izmantojot Utf-8, lai iedarbinātu projektu (,jo bez Utf-8, programma nedarbojās), tika izmantota tīmekļa vietne [https://blog.hubspot.com/website/what-is-utf-8].
+
 ###
 _*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmaiņas netiek uzglabātas GitHub krātuvē, kas ļautu izsekot projekta izstrādes gaitu, jo sākumā projekts tika izstrādāts Visual Studio Code un tad ar nelielām izmaiņām tika pievienots GitHub krātuvē*_

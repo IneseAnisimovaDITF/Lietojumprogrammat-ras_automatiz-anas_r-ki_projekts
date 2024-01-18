@@ -53,7 +53,7 @@ __*Pārnesot failu no Visual Studio Code uz GitHub radās problēmas ka tas neve
 
 * Smptlib bibliotēkas aprakstam tika izmantota tīmekļa vietne : [https://docs.python.org/3/library/smtplib.html].
 
-* Markdown sintakses pielitošanai tika izmantotas timekļa vietne : [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax][https://www.markdownguide.org/hacks/#indent-tab].
+* Markdown sintakses pielitošanai tika izmantotas timekļa vietnes : [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax][https://www.markdownguide.org/hacks/#indent-tab].
 
 * E-pasta sagatavošanai, lai izmantotu Python programmas izstrāde, tika izmantota tīmekļa vietne : [https://www.sitepoint.com/quick-tip-sending-email-via-gmail-with-python/].
 

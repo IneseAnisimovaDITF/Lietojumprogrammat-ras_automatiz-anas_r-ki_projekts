@@ -34,6 +34,13 @@ Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!
 
 * Selenium bibliotēkas aprakstam tika izmantota tīmekļa vietne : [https://www.selenium.dev/documentation/].
 
+* Time bibliotēkas aprakstam tika izmantota tīmekļa vietne : [https://docs.python.org/3/library/time.html].
+
+* Smptlib bibliotēkas aprakstam tika izmantota tīmekļa vietne : [].
+
 * Markdown sintakses pielitošanai tika izmantotas timekļa vietne : [https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls][https://www.markdownguide.org/hacks/#indent-tab].
 
 * E-pasta sagatavošanai, lai izmantotu Python programmas izstrāde, tika izmantota tīmekļa vietne : [https://www.sitepoint.com/quick-tip-sending-email-via-gmail-with-python/].
+
+###
+_*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmaiņas netiek uzglabātas GitHub krātuvē, kas ļautu izsekot projekta izstrādes gaitu, jo sākumā projekts tika izstrādāts Visual Studio Code un tad ar nelielām izmaiņām tika pievienots GitHub krātuvē*_

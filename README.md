@@ -66,7 +66,7 @@ __*Projekts netika izstrādāts vienas dienas laikā, projekta izstrādes izmai�
 
 __*Gmail konts tika izveidots mācibu projektam, tāpēc parole un pats gmail konts tika atstāts projektā*__
 
-__*Parole no Ortus sistēmas netiek uzglabāta šajā projekta, jo tā ir sensitīvie dati*__
+__*Parole no Ortus sistēmas netiek uzglabāta šajā projekta, jo tas ir sensitīvie dati*__
 
 ###
 

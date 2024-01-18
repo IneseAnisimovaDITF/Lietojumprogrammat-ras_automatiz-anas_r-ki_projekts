@@ -39,7 +39,7 @@
 ## 
 __Kad projekts tika izstrādāts, pienācis laiks parādit, kas tad sanāca!__ [https://drive.google.com/file/d/1sSMicqQ_pufYEKn9zmBdo7w-lv4LO_2G/view?usp=sharing]
 
-__*Pārnesot failu no Visual Studio Code radās problēmas ka tas never vaļā chrome tīmekļa vietni, tāpec video tiek parādits, kā darbojas programma no Visual Studio Code*__
+__*Pārnesot failu no Visual Studio Code uz GitHub radās problēmas ka tas never vaļā chrome tīmekļa vietni, tāpec video tiek parādits, kā darbojas programma no Visual Studio Code*__
 
 ## 
 &nbsp;__Projekta izstrādes laikā izmantotie resursi :__ 

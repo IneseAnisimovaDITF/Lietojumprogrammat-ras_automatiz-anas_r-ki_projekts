@@ -10,7 +10,7 @@ service = Service()
 option = webdriver.ChromeOptions() 
 driver = webdriver.Chrome(service=service, options=option)
 
-url = "https://id2.rtu.lv/openam/UI/Login?module=LDAP&locale=lv" # adrese ar lapu kuru mes velamies atvert
+url = "https://id2.rtu.lv/openam/UI/Login?module=LDAP&locale=lv" 
 driver.get(url)
 time.sleep(2)
 
@@ -39,7 +39,6 @@ infopanelisgaidamienot=driver.find_element(By.CLASS_NAME, "pb-2")
 print(infopanelisgaidamienot.text)
 
 izvade = "izvade.txt"
-eksamgraf = "eksamgraf.txt"
 
 with open(izvade, 'w', encoding='utf-8') as output_file:
     output_file.write(infopanelisgaidamienot.text)
@@ -65,7 +64,7 @@ with open(failusaglaba, "r", encoding="utf-8") as file:
             rinduskaititajs += tuksizlaizam + "\n"
 
 msg = EmailMessage()
-msg.set_content("Labdien Jums ir jāizpilda uzdevumus ↓" + "\n" + failusaglaba + "\n" + "Veiksmi darbā!" + "\n" + "Ar cieņu, Jūsu gmail konts")
+msg.set_content("Labdien Jums ir jāizpilda uzdevumus ↓" + "\n" + rinduskaititajs + "\n" + "Veiksmi darbā!" + "\n" + "Ar cieņu, Jūsu gmail konts")
 
 msg["Subject"] = ""
 msg["From"] = username

@@ -1,0 +1,1 @@
+# Lietojumprogrammaturas_automatizesanas_riki_projekts
